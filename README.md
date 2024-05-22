@@ -1,1 +1,1 @@
-# Splunk-CTF-PS-Eclipse-
+# Splunk-CTF-PS-Eclipse
